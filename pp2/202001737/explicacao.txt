@@ -1,0 +1,8 @@
+Execute os seguintes comandos no linux:
+
+gcc mochila.c -lm (o -lm é para que a math.h funcione)
+./a.out < entrada.txt (ler entrada)
+__________________________________________________________
+No arquivo de entrada, a primeira linha refere-se à quantidade de 
+itens e à capacidade maxima da mochila, enquanto o restante ao 
+valor e peso de cada um. Os valores podem ser alterados.
